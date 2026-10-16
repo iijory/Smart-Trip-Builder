@@ -7,7 +7,7 @@ Smart Trip Builder is a system that helps users build a personalized travel plan
 
 ## Team Members
 - Jory ALbuhairi
-- Name 2
+- Lana Alsuhaibani
 - Name 3
 - Name 4
 - Name 5
