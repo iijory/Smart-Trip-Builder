@@ -1,6 +1,7 @@
 # Smart Trip Builder
 CS383 Software Engineering – Qassim University
 Second Semester 1448 (2026)
+
 Instructor: Dr. Sally Alkhalifa
 
 ## Project Idea
