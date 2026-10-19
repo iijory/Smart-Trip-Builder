@@ -1,6 +1,7 @@
 # Smart Trip Builder
 CS383 Software Engineering – Qassim University
 Second Semester 1448 (2026)
+Instructor: Dr. Sally Alkhalifa
 
 ## Project Idea
 Smart Trip Builder is a system that helps users build a personalized travel plan based on their destination, trip length, budget, travel style, and travel pace.
